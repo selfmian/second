@@ -142,7 +142,7 @@
 									<p class="num">
 										<!--.style == 1是预售-->
 										<span>72人学习</span> ·
-										<span>10评论</span
+										<span>10评论</span>
 									</p>
 									<p class="price">
 										<span class="discount-price"><sub>￥</sub>2488</span>
