@@ -12,7 +12,7 @@
 				</span>
 				<i class="imwap-search index-search js-index-search"></i>
 				<form class="search-box js-search-box" style="margin-left:0; display: none;"
-					action="//m.imooc.com/search/">
+					action="">
 					<div class="search-input">
 						<input type="text" class="search js-search" name="words" value="" placeholder="请输入搜索关键词">
 						<div class="search-action">
