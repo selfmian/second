@@ -1,3 +1,4 @@
 module.exports = {
-    transpileDependencies: ['uview-ui']
+    transpileDependencies: ['uview-ui'],
+	publicPath:"./"
 }
