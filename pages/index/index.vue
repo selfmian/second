@@ -2,13 +2,13 @@
 	<view class="content">
 		<header class="directory1">
 			<div class="header clearfix">
-				<a href="//m.imooc.com" class="logo"><img
+				<a href="" class="logo"><img
 						src="https://class.m.imooc.com/static/wap/static/common/img/logo2.png"></a>
 				<div id="wap_class_banner" class="adver-con"></div>
 				<span class="download-login clearfix">
 					<a id="js-appload" href="Javascript:;" class="download-btn">下载APP</a>
 					<a href="javascript:;" class="column"></a>
-					<a href="//m.imooc.com/account/login" class="login-btn">登录</a>
+					<a href="" class="login-btn">登录</a>
 				</span>
 				<i class="imwap-search index-search js-index-search"></i>
 				<form class="search-box js-search-box" style="margin-left:0; display: none;"
@@ -26,28 +26,20 @@
 		</header>
 		<div id="wrapper">
 			<div id="middle" class="container ">
-
-
 				<div class="header-menu placeholder">
-
 				</div>
 				<section class="header-menu fixed">
 					<ul>
 						<li class="menu-row">
-
-							<a href="//m.imooc.com">首页</a>
-							<a href="//m.imooc.com/course/list">免费课</a>
-							<a href="//coding.m.imooc.com">实战课</a>
+							<a href="">首页</a>
+							<a href="">免费课</a>
+							<a href="">实战课</a>
 							<a href="#"><span class="imwap-tixike"></span> 体系课</a>
-
 						</li>
 						<li class="menu-row">
-
-							<a href="//m.imooc.com/read">专栏</a>
-							<a href="//m.imooc.com/article">手记</a>
-
-							<a href="//m.imooc.com/wiki">慕课教程</a>
-
+							<a href="">专栏</a>
+							<a href="">手记</a>
+							<a href="">慕课教程</a>
 						</li>
 					</ul>
 				</section>
@@ -58,9 +50,7 @@
 							<li data-type="0">零基础</li>
 							<li data-type="1">进阶课</li>
 						</ul>
-
 						<div class="nav-list">
-
 							<a class="item item0" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62c64f8208d00dd504920282.jpg" alt="">
 								<div class="details">
@@ -72,274 +62,171 @@
 									<p class="price">
 										<span class="discount-price"><sub>￥</sub>11999</span>
 										<span class="original"><sub>￥</sub>14999</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">首期特惠</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item0" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62af3ac40985111a04920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
 										<!--.style == 1是预售-->
-
 										<span>20107人学习</span> ·
-
 										<span>8198评论</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>4988</span>
 										<span class="original"><sub>￥</sub>5980</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item0" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62af3ae10902617e04920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
 										<!--.style == 1是预售-->
-
 										<span>15898人学习</span> ·
-
 										<span>6861评论</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>4788</span>
 										<span class="original"><sub>￥</sub>5680</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item0" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62af3afe09dd77b604920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
 										<!--.style == 1是预售-->
-
 										<span>11383人学习</span> ·
-
 										<span>3962评论</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>4788</span>
 										<span class="original"><sub>￥</sub>5680</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item1" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62d10a690874d0d104920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
 										<!--.style == 1是预售-->
-
 										<span>13人学习</span> ·
-
 										<span>新上好课</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>3399</span>
 										<span class="original"><sub>￥</sub>4200</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item0" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62af3b1409c7c95903280188.jpg" alt="">
 								<div class="details">
 									<p class="num">
 										<!--.style == 1是预售-->
-
 										<span>72人学习</span> ·
-
-										<span>10评论</span>
-
-
+										<span>10评论</span
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>2488</span>
 										<span class="original"><sub>￥</sub>2999</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item1" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62af3b3309943b6f04920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
 										<!--.style == 1是预售-->
-
 										<span>904人学习</span> ·
-
 										<span>233评论</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>5688</span>
 										<span class="original"><sub>￥</sub>6680</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item1" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/6245d0b90936ac8604920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
 										<!--.style == 1是预售-->
-
 										<span>844人学习</span> ·
-
 										<span>210评论</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>3488</span>
 										<span class="original"><sub>￥</sub>3888</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item1" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62af3b5a09cddc4704920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
-										<!--.style == 1是预售-->
-
 										<span>2543人学习</span> ·
-
 										<span>1636评论</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>5488</span>
 										<span class="original"><sub>￥</sub>6600</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item1" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/62af3b760906748d04920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
-										<!--.style == 1是预售-->
-
 										<span>2743人学习</span> ·
-
 										<span>728评论</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>3688</span>
 										<span class="original"><sub>￥</sub>4380</span>
-
 									</p>
 									<p class="discount">
-
 										<span class="name">优惠价</span>
-
 									</p>
 								</div>
 							</a>
-
 							<a class="item item1" href="#" data-end-time="0">
 								<img src="https://img.mukewang.com/climg/6245d0db09fad10304920282.jpg" alt="">
 								<div class="details">
 									<p class="num">
-										<!--.style == 1是预售-->
-
 										<span>499人学习</span> ·
-
 										<span>97评论</span>
-
-
 									</p>
 									<p class="price">
-
-
 										<span class="discount-price"><sub>￥</sub>7288</span>
 										<span class="original"><sub>￥</sub>8800</span>
 
